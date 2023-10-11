@@ -1,5 +1,9 @@
 # Bank-Application
 Bank application to check our current balance, balance after withdraw and balance after deposit of money
+# This is my first repository
+<Br>
+Author: Tilak Raj Panchal
+
 import tkinter as tk
 
 class BankAccount:
