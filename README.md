@@ -1,4 +1,4 @@
-#Apna college(Tilak Raj)
+# Tilak Raj Panchal
 # Bank-Application
 Bank application to check our current balance, balance after withdraw and balance after deposit of money
 # This is my first repository
